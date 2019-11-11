@@ -2,7 +2,7 @@
   "name": "com.danishin.phonegap-plugin-push",
   "description": "Register and receive push notifications.",
   "types": "./types/index.d.ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://github.com/danishin/phonegap-plugin-push#readme",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "url": "https://github.com/danishin/phonegap-plugin-push/issues"
   },
   "cordova": {
-    "id": "phonegap-plugin-push",
+    "id": "com.danishin.phonegap-plugin-push",
     "platforms": [
       "ios",
       "android",
